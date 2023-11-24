@@ -3,3 +3,9 @@ Make Three Strings Equal
 Separate Black and White Balls
 Maximum Xor Product
 Find Building Where Alice and Bob Can Meet
+
+Problem list
+Make Three Strings Equal
+Separate Black and White Balls
+Maximum Xor Product
+Find Building Where Alice and Bob Can Meet
